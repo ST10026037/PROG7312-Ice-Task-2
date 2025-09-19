@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\Downloads\SimulatorQueue\bin\Debug\net8.0\SimulatorQueue.exe
+C:\Users\lab_services_student\Downloads\SimulatorQueue\bin\Debug\net8.0\SimulatorQueue.deps.json
+C:\Users\lab_services_student\Downloads\SimulatorQueue\bin\Debug\net8.0\SimulatorQueue.runtimeconfig.json
+C:\Users\lab_services_student\Downloads\SimulatorQueue\bin\Debug\net8.0\SimulatorQueue.dll
+C:\Users\lab_services_student\Downloads\SimulatorQueue\bin\Debug\net8.0\SimulatorQueue.pdb
+C:\Users\lab_services_student\Downloads\SimulatorQueue\obj\Debug\net8.0\SimulatorQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Downloads\SimulatorQueue\obj\Debug\net8.0\SimulatorQueue.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Downloads\SimulatorQueue\obj\Debug\net8.0\SimulatorQueue.AssemblyInfo.cs
+C:\Users\lab_services_student\Downloads\SimulatorQueue\obj\Debug\net8.0\SimulatorQueue.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Downloads\SimulatorQueue\obj\Debug\net8.0\SimulatorQueue.dll
+C:\Users\lab_services_student\Downloads\SimulatorQueue\obj\Debug\net8.0\refint\SimulatorQueue.dll
+C:\Users\lab_services_student\Downloads\SimulatorQueue\obj\Debug\net8.0\SimulatorQueue.pdb
+C:\Users\lab_services_student\Downloads\SimulatorQueue\obj\Debug\net8.0\SimulatorQueue.genruntimeconfig.cache
+C:\Users\lab_services_student\Downloads\SimulatorQueue\obj\Debug\net8.0\ref\SimulatorQueue.dll
